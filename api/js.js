@@ -1,3 +1,3 @@
 export default function handler(request, response) {
-  response.status(200).json({ hello: 'world' });
+  response.status(200).json({ hello: 'javascript' });
 }
